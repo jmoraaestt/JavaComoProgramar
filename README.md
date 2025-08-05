@@ -6,7 +6,7 @@ Este repositório reúne exercícios e soluções dos capítulos do livro *"Java
 
 ## Capítulo 3 — Introdução a Classes, Objetos, Métodos e Strings
 
-[Informações do Capítulo 3](.\capitulo3\README3)
+[Informações do Capítulo 3](./capitulo3/README3)
 ---
 
 
