@@ -24,7 +24,7 @@ Este repositório contém os enunciados e soluções dos exercícios propostos n
 > Lembre-se de declarar o método como `static`.
 
 ### ✅ Soluções
-- 🔸 [Account.java](./capitulo3/exemplos_cap3/src/Account.java)  
+- 🔸 [Account.java](./exemplos_cap3/src/Account.java)  
 - 🧪 [AccountTest.java](./capitulo3/exemplos_cap3/src/AccountTests.java)
 
 ---
