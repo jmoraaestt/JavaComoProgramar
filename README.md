@@ -6,7 +6,7 @@ Este repositório reúne exercícios, resumos, exemplos e soluções dos capítu
 ---
 
 ## 📙 Capítulo 3 — Introdução a Classes, Objetos, Métodos e Strings
-[📄 Detalhes do Capítulo 3](./capitulo3/README3)
+[📄 Detalhes do Capítulo 3](./capitulo3/README3.md)
 
 
 ## 🚀 Como clonar o repositório
