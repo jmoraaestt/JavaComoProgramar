@@ -25,7 +25,7 @@ Este repositório contém os enunciados e soluções dos exercícios propostos n
 
 ### ✅ Soluções
 - 🔸 [Account.java](./exemplos_cap3/src/Account.java)  
-- 🧪 [AccountTest.java](./capitulo3/exemplos_cap3/src/AccountTests.java)
+- 🧪 [AccountTest.java](./exemplos_cap3/src/AccountTests.java)
 
 ---
 
@@ -45,8 +45,8 @@ Este repositório contém os enunciados e soluções dos exercícios propostos n
 > Crie uma classe `InvoiceTest` para demonstrar a classe.
 
 ### ✅ Soluções
-- 🔸 [Invoice.java](./capitulo3/questoes_cap3/src/Invoice.java)  
-- 🧪 [InvoiceTest.java](./capitulo3/questoes_cap3/src/InvoiceTest.java)
+- 🔸 [Invoice.java](./questoes_cap3/src/Invoice.java)  
+- 🧪 [InvoiceTest.java](./questoes_cap3/src/InvoiceTest.java)
 
 ---
 
@@ -62,8 +62,8 @@ Este repositório contém os enunciados e soluções dos exercícios propostos n
 > Crie dois objetos `Employee`, exiba o salário anual de cada um, aplique um aumento de 10% e exiba novamente.
 
 ### ✅ Soluções
-- 🔸 [Employee.java](./capitulo3/questoes_cap3/src/Employee.java)  
-- 🧪 [EmployeeTest.java](./capitulo3/questoes_cap3/src/EmployeeTest.java)
+- 🔸 [Employee.java](./questoes_cap3/src/Employee.java)  
+- 🧪 [EmployeeTest.java](./questoes_cap3/src/EmployeeTest.java)
 
 ---
 
@@ -79,8 +79,8 @@ Este repositório contém os enunciados e soluções dos exercícios propostos n
 > Escreva um teste chamado `DateTest`.
 
 ### ✅ Soluções
-- 🔸 [Date.java](./capitulo3/questoes_cap3/src/Date.java)  
-- 🧪 [DateTest.java](./capitulo3/questoes_cap3/src/DateTest.java)
+- 🔸 [Date.java](./questoes_cap3/src/Date.java)  
+- 🧪 [DateTest.java](./questoes_cap3/src/DateTest.java)
 
 ---
 
