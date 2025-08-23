@@ -2,7 +2,7 @@
 
 Este repositório contém os exercícios do Capítulo 4 do estudo de Java: **Instruções de Controle, Operadores de Atribuição e Repetição**. 
 
-* [Resumo](/README4.md)
+- [📄 Resumo do Capítulo 4](./capitulo4/README4.md)  
 
 ---
 
