@@ -13,8 +13,7 @@ Este repositório reúne exercícios, resumos, exemplos e soluções dos capítu
 Este capítulo aborda conceitos de **instruções de controle**, **if...else aninhados**, **repetição com while e for**, **operadores de atribuição** e **incremento/decremento**.
 
 - [📄 Resumo do Capítulo 4](./capitulo4/README4.md)  
-- [📝 Exercícios do Capítulo 4](./capitulo4/README4 _exercicios.md)
-
+- [📝 Exercícios do Capítulo 4](./capitulo4/README4_exercicios.md)
 
 
 ## 🚀 Como clonar o repositório
