@@ -1,6 +1,8 @@
 # 📝 Capítulo 4 – Exercícios de Java
 
-Este repositório contém os exercícios do Capítulo 4 do estudo de Java: **Instruções de Controle, Operadores de Atribuição e Repetição**.  
+Este repositório contém os exercícios do Capítulo 4 do estudo de Java: **Instruções de Controle, Operadores de Atribuição e Repetição**. 
+
+* [Resumo](/README4.md)
 
 ---
 
