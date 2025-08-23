@@ -17,7 +17,6 @@
 10. [Operadores de Atribuição Compostos](#412-operadores-de-atribuição-compostos)  
 11. [Incremento e Decremento](#413-operadores-de-incremento-e-decremento)  
 
-- [📝 Exercícios do Capítulo 4](./capitulo4/README4 _exercicios.md)
 
 ---
 
